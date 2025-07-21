@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadcn-UI Template Usage Instructions
 
 ## technology stack
@@ -59,3 +60,7 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
+=======
+# BizMatch
+BizMatch is an innovative application developed during a Hackathon that helps users identify the best investment opportunities through an AI-powered chat assistant. The app was created by our dedicated team: Jeta Krasniqi, Armelë Thaci, Arjanit Gojani, and myself, Gjergj Çuni.
+>>>>>>> f11dbb5e4c8d23c1168419bc49ac095a231b5ba5
